@@ -1,0 +1,6 @@
+{
+  "name": "@sqd-ffrog/react-native-jnu",
+  "version": "1.0.0",
+  "description": "Jeju National University Api Wrapper for React Native",
+  "main": "index.ts"
+}
